@@ -107,7 +107,7 @@ Utilizei a dependência do [L5-Swagger]() para documentar a API Rest na rota '/a
 
 `composer require "darkaonline/l5-swagger"`
 
-![API Rest Truckpag](https://raw.githubusercontent.com/ArthurBandeira01/desafio-laravel-truckpag/master/API-Rest-Truckpag.png)
+![API Rest Truckpag](https://raw.githubusercontent.com/ArthurBandeira01/desafio-truckpag/master/API-Rest-Truckpag.png?token=GHSAT0AAAAAACOQXFNXCAPW435OXB7QTMI4ZQS4ZGA)
 
 Criei um arquivo api-info.yml no diretório app/Http/Controllers/Api/api-info.yml também com a documentação da API.
 
